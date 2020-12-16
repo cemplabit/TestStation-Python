@@ -1,0 +1,7 @@
+Modelo:	LabIt02
+Versión:	1
+#	Tipo	Límite bajo	Límite alto	Unidad
+1	Temperatura	30	40	°C
+2	Iluminación	490	510	Lm
+3	PWM	25	35	ms
+4	Señal	55	65	Hz

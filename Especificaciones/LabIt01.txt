@@ -1,0 +1,5 @@
+Modelo:	LabIt01
+Versión:	1
+#	Tipo	Límite bajo	Límite alto	Unidad
+1	Temperatura	30	40	°C
+2	PWM	25	35	ms
